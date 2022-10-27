@@ -27,7 +27,7 @@ const nationalParksArray = [
     ZipCode: 4609,
     Phone: "(207) 288-3338",
     Fax: "(207) 288-8813",
-    Visit: "https://www.nps.gov/acad/index.htm",
+    Visit: "https://www.nps.gov/acad/index.html",
     Latitude: 44.3385559,
     Longitude: -68.2733346,
     Location: {
@@ -123,7 +123,7 @@ const nationalParksArray = [
     ZipCode: 0,
     Phone: 0,
     Fax: "(415) 705-1050",
-    Visit: "https://www.nps.gov/places/alcatraz-island.htm",
+    Visit: "https://www.nps.gov/alca/index.htm",
     Latitude: 37.8266636,
     Longitude: -122.4230122,
     Location: {
@@ -374,7 +374,7 @@ const nationalParksArray = [
     ZipCode: 21811,
     Phone: "(410) 641-1441",
     Fax: 0,
-    Visit: "https://www.nps.gov/asis/index.htm",
+    Visit: "https://www.nps.gov/asis/index.html",
     Latitude: 38.249822,
     Longitude: -75.1559737,
     Location: {
@@ -394,7 +394,7 @@ const nationalParksArray = [
     ZipCode: 87410,
     Phone: "(505) 334-6174",
     Fax: "(505) 334-6372",
-    Visit: "https://www.nps.gov/azru/index.htm",
+    Visit: "https://www.nps.gov/azru/index.html",
     Latitude: 36.8346019,
     Longitude: -107.9960917,
     Location: {
@@ -414,7 +414,7 @@ const nationalParksArray = [
     ZipCode: 57750,
     Phone: 0,
     Fax: "(605) 433-5404",
-    Visit: "https://www.nps.gov/badl/index.htm",
+    Visit: "https://www.nps.gov/badl/index.html",
     Latitude: 43.716892,
     Longitude: -101.892914,
     Location: {
@@ -510,7 +510,7 @@ const nationalParksArray = [
     ZipCode: 79834,
     Phone: "(432) 477-2251",
     Fax: "(432) 477-1175",
-    Visit: "https://www.nps.gov/bibe/index.htm",
+    Visit: "https://www.nps.gov/bibe/index.html",
     Latitude: 29.2166538,
     Longitude: -103.2663479,
     Location: {
@@ -587,7 +587,7 @@ const nationalParksArray = [
     ZipCode: 59035,
     Phone: "(307) 548-5406",
     Fax: "(406) 666-2415",
-    Visit: "https://www.nps.gov/bica/index.htm",
+    Visit: "https://www.nps.gov/bica/index.html",
     Latitude: 45.312493,
     Longitude: -107.935565,
     Location: {
@@ -607,7 +607,7 @@ const nationalParksArray = [
     ZipCode: 33033,
     Phone: "(305) 230-7275",
     Fax: "(305) 230-1190",
-    Visit: "https://www.nps.gov/bisc/index.htm",
+    Visit: "https://www.nps.gov/bisc/index.html",
     Latitude: 25.4631936,
     Longitude: -80.3463139,
     Location: {
@@ -627,7 +627,7 @@ const nationalParksArray = [
     ZipCode: 81230,
     Phone: 0,
     Fax: "(970) 641-3127",
-    Visit: "https://www.nps.gov/blca/index.htm",
+    Visit: "https://www.nps.gov/blca/index.html",
     Latitude: 38.4657461,
     Longitude: -107.16668,
     Location: {
@@ -742,7 +742,7 @@ const nationalParksArray = [
     ZipCode: "84764-0201",
     Phone: "(435) 834-5322",
     Fax: "(435) 834-4703",
-    Visit: "https://www.nps.gov/brca/index.htm",
+    Visit: "https://www.nps.gov/brca/index.html",
     Latitude: 37.5965706,
     Longitude: -112.1787896,
     Location: {
@@ -895,7 +895,7 @@ const nationalParksArray = [
     ZipCode: 27954,
     Phone: "(252) 473-2111",
     Fax: "(252) 473-2595",
-    Visit: "https://www.nps.gov/caha/index.htm",
+    Visit: "https://www.nps.gov/caha/index.html",
     Latitude: 35.938547,
     Longitude: -75.712322,
     Location: {
@@ -1181,7 +1181,7 @@ const nationalParksArray = [
     ZipCode: 93001,
     Phone: "(805) 658-5730",
     Fax: "(805) 658-5799",
-    Visit: "https://www.nps.gov/chis/index.htm",
+    Visit: "https://www.nps.gov/chis/index.html",
     Latitude: 34.245852,
     Longitude: -119.2664691,
     Location: {
@@ -1296,7 +1296,7 @@ const nationalParksArray = [
     ZipCode: 73086,
     Phone: 0,
     Fax: "(580) 622-2296",
-    Visit: "https://www.nps.gov/chic/index.htm",
+    Visit: "https://www.nps.gov/chic/index.html",
     Latitude: 34.5089397,
     Longitude: -96.969625,
     Location: {
@@ -1430,7 +1430,7 @@ const nationalParksArray = [
     ZipCode: 97604,
     Phone: "(541) 594-3000",
     Fax: "(541) 594-3010",
-    Visit: "https://www.nps.gov/crla/index.htm",
+    Visit: "https://www.nps.gov/crla/index.html",
     Latitude: 42.962058,
     Longitude: -122.148106,
     Location: {
@@ -1469,7 +1469,7 @@ const nationalParksArray = [
     ZipCode: 40965,
     Phone: "(606) 248-2817",
     Fax: "(606) 248-7276",
-    Visit: "https://www.nps.gov/cuga/index.htm",
+    Visit: "https://www.nps.gov/cuga/index.html",
     Latitude: 36.602419,
     Longitude: -83.692026,
     Location: {
@@ -1622,7 +1622,7 @@ const nationalParksArray = [
     ZipCode: 99755,
     Phone: "(907) 683-2294",
     Fax: "(907) 683-9612",
-    Visit: "https://www.nps.gov/dena/index.htm",
+    Visit: "https://www.nps.gov/dena/index.html",
     Latitude: 63.7296854,
     Longitude: -148.766697,
     Location: {
@@ -1680,7 +1680,7 @@ const nationalParksArray = [
     ZipCode: 82714,
     Phone: 0,
     Fax: "(307) 467-5350",
-    Visit: "https://www.nps.gov/deto/index.htm",
+    Visit: "https://www.nps.gov/deto/index.html",
     Latitude: 44.588333,
     Longitude: -104.698333,
     Location: {
@@ -1719,7 +1719,7 @@ const nationalParksArray = [
     ZipCode: 33041,
     Phone: 0,
     Fax: "(305) 242-7711",
-    Visit: "https://www.nps.gov/drto/index.htm",
+    Visit: "https://www.nps.gov/drto/index.html",
     Latitude: 24.56,
     Longitude: -81.81,
     Location: {
@@ -2575,7 +2575,7 @@ const nationalParksArray = [
     ZipCode: 17325,
     Phone: 0,
     Fax: "(717) 334-1891",
-    Visit: "https://www.nps.gov/gett/index.htm",
+    Visit: "https://www.nps.gov/gett/index.html",
     Latitude: 39.8122032,
     Longitude: -77.2215251,
     Location: {
@@ -2595,7 +2595,7 @@ const nationalParksArray = [
     ZipCode: 88061,
     Phone: 0,
     Fax: "(575) 536-9344",
-    Visit: "https://www.nps.gov/gicl/index.htm",
+    Visit: "https://www.nps.gov/gicl/index.html",
     Latitude: 32.77,
     Longitude: -108.279999,
     Location: {
@@ -2615,7 +2615,7 @@ const nationalParksArray = [
     ZipCode: "99826-0140",
     Phone: 0,
     Fax: "(907) 697-2654",
-    Visit: "https://www.nps.gov/glba/index.htm",
+    Visit: "https://www.nps.gov/glba/index.html",
     Latitude: 58.8318772,
     Longitude: -136.9987946,
     Location: {
@@ -2920,7 +2920,7 @@ const nationalParksArray = [
     ZipCode: 79847,
     Phone: 0,
     Fax: "(915) 828-3269",
-    Visit: "https://www.nps.gov/gumo/index.htm",
+    Visit: "https://www.nps.gov/gumo/index.html",
     Latitude: 31.903912,
     Longitude: -104.868813,
     Location: {
@@ -3852,7 +3852,7 @@ const nationalParksArray = [
     ZipCode: 89005,
     Phone: 0,
     Fax: "(702) 293-8936",
-    Visit: "https://www.nps.gov/lake/index.htm",
+    Visit: "https://www.nps.gov/lake/index.html",
     Latitude: 35.9764797,
     Longitude: -114.8385611,
     Location: {
@@ -3910,7 +3910,7 @@ const nationalParksArray = [
     ZipCode: 68102,
     Phone: "(402) 661-1804",
     Fax: "(402) 661-1805",
-    Visit: "https://www.nps.gov/lecl/index.htm",
+    Visit: "https://www.nps.gov/lecl/index.html",
     Latitude: 41.264613,
     Longitude: -95.924517,
     Location: {
@@ -4367,7 +4367,7 @@ const nationalParksArray = [
     ZipCode: 92311,
     Phone: "(760) 252-6100",
     Fax: "(760) 252-6174",
-    Visit: "https://www.nps.gov/moja/index.htm",
+    Visit: "https://www.nps.gov/moja/index.html",
     Latitude: 34.871394,
     Longitude: -117.020322,
     Location: {
@@ -4691,7 +4691,7 @@ const nationalParksArray = [
     ZipCode: 70130,
     Phone: 0,
     Fax: "(504) 589-4845",
-    Visit: "https://www.nps.gov/jazz/index.htm",
+    Visit: "https://www.nps.gov/jazz/index.html",
     Latitude: 29.955125,
     Longitude: -90.064502,
     Location: {
@@ -4730,7 +4730,7 @@ const nationalParksArray = [
     ZipCode: 83540,
     Phone: "(208) 843-7001",
     Fax: "(208) 843-7003",
-    Visit: "https://www.nps.gov/nepe/index.htm",
+    Visit: "https://www.nps.gov/nepe/index.html",
     Latitude: 46.416175,
     Longitude: -116.797523,
     Location: {
@@ -4921,7 +4921,7 @@ const nationalParksArray = [
     ZipCode: 73101,
     Phone: "(405) 609-8855",
     Fax: "(405) 609-8863",
-    Visit: "https://www.nps.gov/okci/index.htm",
+    Visit: "https://www.nps.gov/okci/index.html",
     Latitude: 35.47,
     Longitude: -97.52,
     Location: {
@@ -5245,7 +5245,7 @@ const nationalParksArray = [
     ZipCode: "95043-9762",
     Phone: "(831) 389-4485",
     Fax: "(831) 389-4489",
-    Visit: "https://www.nps.gov/pinn/index.htm",
+    Visit: "https://www.nps.gov/pinn/index.html",
     Latitude: 36.4869826,
     Longitude: -121.2135701,
     Location: {
@@ -5759,7 +5759,7 @@ const nationalParksArray = [
     ZipCode: 901,
     Phone: 0,
     Fax: "(787) 289-7972",
-    Visit: "https://www.nps.gov/saju/index.htm",
+    Visit: "https://www.nps.gov/saju/index.html",
     Latitude: 18.468075,
     Longitude: -66.115186,
     Location: {
@@ -6653,7 +6653,7 @@ const nationalParksArray = [
     ZipCode: 88330,
     Phone: 0,
     Fax: 0,
-    Visit: "https://www.nps.gov/whsa/index.htm",
+    Visit: "https://www.nps.gov/whsa/index.html",
     Latitude: 32.7696209,
     Longitude: -106.3182956,
     Location: {
@@ -6768,7 +6768,7 @@ const nationalParksArray = [
     ZipCode: "82190-0168",
     Phone: "(307) 344-7381",
     Fax: "(307) 344-2014",
-    Visit: "https://www.nps.gov/yell/index.htm",
+    Visit: "https://www.nps.gov/yell/index.html",
     Latitude: 44.462085,
     Longitude: -110.642441,
     Location: {
@@ -6788,7 +6788,7 @@ const nationalParksArray = [
     ZipCode: 95389,
     Phone: "(209) 372-0200",
     Fax: 0,
-    Visit: "https://www.nps.gov/yose/index.htm",
+    Visit: "https://www.nps.gov/yose/index.html",
     Latitude: 37.7189997,
     Longitude: -119.5571677,
     Location: {
@@ -6846,7 +6846,7 @@ const nationalParksArray = [
     ZipCode: 84767,
     Phone: 0,
     Fax: "(435) 772-3426",
-    Visit: "https://www.nps.gov/zion/index.htm",
+    Visit: "https://www.nps.gov/zion/index.html",
     Latitude: 37.240801,
     Longitude: -112.941626,
     Location: {

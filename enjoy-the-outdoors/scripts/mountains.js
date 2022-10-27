@@ -1,6 +1,6 @@
 function mountainImage(item){
     const img = document.createElement("img");
-    img.src = "images/" + item.img;
+    img.src = "enjoy-the-outdoors/images/" + item.img;
     return img;
 }
 
@@ -13,6 +13,7 @@ function mountainTitle(item){
 
 function mountainCard(item) {
     const card = document.createElement("div");
+    card.innerText = item.desc
     card.classList.add("card");
     card.appendChild(mountainImage(item));    
     card.appendChild(mountainTitle(item));
